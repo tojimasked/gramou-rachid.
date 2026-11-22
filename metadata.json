@@ -1,0 +1,8 @@
+{
+  "name": "كرامو راشد | عسل ومنتجات النحل",
+  "description": "كرامو راشد: عسل مغربي طبيعي غير مسخّن، شمع عسل ومنتجات النحل مع توصيل في نفس اليوم داخل الدار البيضاء وإرسال الطلبات عبر البريد الإلكتروني والواتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
